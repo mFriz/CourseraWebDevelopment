@@ -12,7 +12,7 @@ h1 {
 
 section {
 	background: grey;
-	border: black solid 2px;
+	border: black solid 1px;
 	position: relative;
 	float: left;
 	margin: 1%;
@@ -20,12 +20,12 @@ section {
 }
 
 h2 {
-	border: black solid 2px;
+	border: black solid 1px;
 	text-align: center;
 	font-size: 1.25em;
 	position: absolute;
-	top: -2px;
-	right: -2px;
+	top: -1px;
+	right: -1px;
 	width: 180px;
 	height: 30px;
 	margin: 0px
