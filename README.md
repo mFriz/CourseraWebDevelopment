@@ -7,4 +7,4 @@ The published websites on GitHubPages are here:
 * Module 3:
 [http://mfriz.github.io/CourseraWebDevelopment/module3-solution/index.html](http://mfriz.github.io/CourseraWebDevelopment/module3-solution/index.html)
 * Module 4:
-[http://mfriz.github.io/CourseraWebDevelopment/module4-solution/index.html](http://mfriz.github.io/CourseraWebDevelopment/module4-solution/index.html)
+[http://mfriz.github.io/CourseraWebDevelopment/module4-solution/](http://mfriz.github.io/CourseraWebDevelopment/module4-solution/)
