@@ -8,3 +8,5 @@ The published websites on GitHubPages are here:
 [http://mfriz.github.io/CourseraWebDevelopment/module3-solution/index.html](http://mfriz.github.io/CourseraWebDevelopment/module3-solution/index.html)
 * Module 4:
 [http://mfriz.github.io/CourseraWebDevelopment/module4-solution/](http://mfriz.github.io/CourseraWebDevelopment/module4-solution/)
+* Module 5:
+[http://mfriz.github.io/CourseraWebDevelopment/module5-solution/](http://mfriz.github.io/CourseraWebDevelopment/module5-solution/)
